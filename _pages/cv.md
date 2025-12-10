@@ -29,7 +29,7 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Onshape, Bambu Studio
+- **Software:** Autodesk Fusion 360, Onshape, Bambu Studio, ANSYS
 - **Programming:** Python, MATLAB
 - **Tools:** 3D Printing
 

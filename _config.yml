@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Laura Ren
 description              : Laura Ren - Projects and CV 
-baseurl                  : "/fall-2025-portfolio-lauraaaren/" # Set this to your repo name 
+url                      : "https://lauraaaren.github.io" # Set this to your repo name 
+baseurl                  : "https://lauraaaren.github.io/fall-2025-portfolio-lauraaaren/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
