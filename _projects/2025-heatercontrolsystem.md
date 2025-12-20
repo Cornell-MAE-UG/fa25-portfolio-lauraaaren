@@ -7,7 +7,7 @@ image: /assets/images/heater.jpg
 ---
 
 
-This pdf below documents the close loop control system of a heater. 
+This pdf below documents the design of the open loop, close loop PI control, and Simulink simulation of a room temperature control heater system. 
 <embed 
     src="{{ '/assets/pdfs/Heater_control_system.pdf' | relative_url }}" 
     type="application/pdf" 
