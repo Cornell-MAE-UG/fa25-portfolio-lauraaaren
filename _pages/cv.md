@@ -33,8 +33,9 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
 - **Programming:** Python, MATLAB
 - **Tools:** CAD, 3D Printing, FEA
 
----
 <!--
+---
+
 #### Projects
 - **[Project Title]**:  
   *[Short Description]*  
