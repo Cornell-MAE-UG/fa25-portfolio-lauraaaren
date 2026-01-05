@@ -2,7 +2,7 @@
 layout: project
 title: Climate change, but only in my living room 
 description: Room temperature control system
-technologies: Simulink
+technologies: Simulink, PID Control
 image: /assets/images/heater.jpg
 ---
 
