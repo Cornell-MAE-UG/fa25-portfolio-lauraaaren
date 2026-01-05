@@ -12,6 +12,12 @@ As part of a mechanical design class project, we were asked to design the struct
 
 This is how I solved the problem:
 
-Our group used a 3D printed orange crusher to crush actual orange and measure the minimum amount of force to extrude the orange juice. Then we calculated the length of the lever arms by assuming an average 20lbs force applied to the handle, considering the coupling of variables including linkage length, lever arm length, and angle of the linkage. 
+Our group used a 3D printed orange crusher to crush actual orange and measure the minimum amount of force to extrude the orange juice. Then we calculated the length of the lever arms by assuming an average 20lbs force applied to the handle, considering the coupling of variables including linkage length, lever arm length, and angle of the linkage. This pdf below documents the testing and calculation of a 3D printed orange crusher in order to find the length of the lever arms that operates at best efficiency. 
+
+<embed 
+    src="{{ '/assets/pdfs/OrangeCrusherEval.pdf' | relative_url }}" 
+    type="application/pdf" 
+    width="100%" 
+    height="600px">
 
 However, restictions of crusher head and stand... redesigned the crusher itself...
