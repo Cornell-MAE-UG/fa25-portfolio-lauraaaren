@@ -31,10 +31,10 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
 #### Skills
 - **Software:** Autodesk Fusion 360, Onshape, Bambu Studio, ANSYS
 - **Programming:** Python, MATLAB
-- **Tools:** 3D Printing
+- **Tools:** CAD, 3D Printing, FEA
 
 ---
-
+<!--
 #### Projects
 - **[Project Title]**:  
   *[Short Description]*  
@@ -45,7 +45,7 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  
-
+-->
 ---
 
 #### Work Experience
@@ -67,7 +67,7 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
   - Develop strong communication and instructional skills in a fast-paced, student-focused environment.
 
 
-
+<!--
 ---
 
 #### Achievements & Certifications
@@ -87,3 +87,5 @@ Undergraduate engineer in Cornell University, with high self-guided learning abi
 Available upon request.
 
 ---
+
+-->
