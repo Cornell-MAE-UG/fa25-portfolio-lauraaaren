@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Orange Crusher Mechanical Stucture Design by CAD
+title: Orange Crusher Mechanical Stucture CAD Design
 description: Class project with Graphs
 technologies: Autodesk Fusion 360
 image: /assets/images/orange_crusher_CAD2.png
