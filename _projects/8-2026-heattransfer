@@ -6,8 +6,8 @@ technologies:
 image: /assets/images/heater.jpg
 ---
 
+In this assignment, we have touched the major heat transfer methods of conduction, convection, and radiation. By considering the heat properties of real life structures and parameters of the environment, we're able to deduce the temperatures of the structures. One example in this problemset that intrigues me was the cat on the roof problem, where we're using datas to see whether the temperature of the roof under the sun is comfortable for a cat to walk on it. This kind of real-life questions really links the formulas with actual applications in our daily life, and would make me think more about heat transfer in life too. 
 
-This pdf below documents the design of the open loop, close loop PI control, and Simulink simulation of a room temperature control heater system. 
 <embed 
     src="{{ '/assets/pdfs/Heat Transfer-Problem set 1.pdf' | relative_url }}" 
     type="application/pdf" 
