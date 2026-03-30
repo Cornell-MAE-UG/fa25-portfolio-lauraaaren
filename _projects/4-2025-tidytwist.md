@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Orange Crusher Mechanical Stucture Design by CAD
+title: TidyTwist Mechanical Stucture Design by CAD
 description: Class project with Graphs
 technologies: Autodesk Fusion 360
 image: /assets/images/tidytwistCAD_pfp.jpg
