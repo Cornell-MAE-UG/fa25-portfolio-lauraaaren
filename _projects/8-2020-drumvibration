@@ -1,0 +1,15 @@
+---
+layout: project
+title: Drumhead Vibration Analysis Essay
+description: IB Graduation Essay
+technologies: COMSOL Multiphysics
+image: /assets/images/drumheadvibration.png
+---
+
+This pdf below documents the essay I wrote regarding the research on vibration mode of drum head (membrane) after instantaneous stimulation. The research was done with Finite Element Analysis of 2D drum heads using COMSOL Multiphysics, and experimental verification with an interferometer built up in an optical lab. 
+
+<embed 
+    src="{{ '/assets/pdfs/IBPhysEE.pdf' | relative_url }}" 
+    type="application/pdf" 
+    width="100%" 
+    height="600px">
